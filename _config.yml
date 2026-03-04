@@ -3,5 +3,7 @@ nav:
     url: /
   - title: 期刊目录
     url: /issues/
-  - title: 投稿
+  - title: 投稿须知
     url: /submit/
+  - title: 编委会
+    url: /editorial/
