@@ -4,9 +4,9 @@ title: The Transformation of Media Narratives before 1931
 permalink: /articles/article1/
 ---
 
-# The Transformation of Media Narratives before 1931
+# 构史研究
 
-**Author:** Lei Liu  
+**Author:** 抽象
 **Affiliation:** Nagoya, Japan  
 
 ---
