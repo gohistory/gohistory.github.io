@@ -1,28 +1,28 @@
 ---
 layout: default
-title: The Transformation of Media Narratives before 1931
+title: 构史研究
 permalink: /articles/article1/
 ---
 
-# 构史研究
+# 九一八事变前日本报纸对华报道研究
 
-**Author:** 抽象
-**Affiliation:** Nagoya, Japan  
-
----
-
-## Abstract
-
-This article examines the transformation of Japanese newspaper narratives before the Manchurian Incident...
+**作者：** 刘磊  
+**单位：** 日本名古屋  
 
 ---
 
-## Keywords
+## 摘要
 
-Media History; East Asia; 1931; Colonial Discourse
+本文围绕1931年以前日本主流报纸对华报道的变化展开分析……
 
 ---
 
-## Download
+## 关键词
 
-[Download PDF](/files/article1.pdf)
+九一八事变；东京朝日新闻；舆论；满铁
+
+---
+
+## 全文下载
+
+[下载 PDF](/files/article1.pdf)
