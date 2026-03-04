@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: 首页
 ---
 
 <div style="text-align:center; margin-top:160px;">
@@ -9,7 +9,8 @@ title: Home
            font-size:52px; 
            font-weight:500; 
            letter-spacing:1px;">
-Journal of Historical Studies
+journal of gohistory
+           欢迎访问本期刊网站
 </h1>
 
 <p style="margin-top:25px; 
@@ -20,7 +21,7 @@ Volume 1 · 2026
 
 <p style="font-family: Georgia, serif; 
           font-size:14px;">
-ISSN XXXX-XXXX
+ISSN 1250-25041
 </p>
 
 <hr style="width:40%; margin:60px auto; border:0; border-top:1px solid #000;">
