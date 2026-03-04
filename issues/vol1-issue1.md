@@ -7,8 +7,7 @@ title: Volume 1, Issue 1 (2026)
 
 ## Articles
 
-1. **The Transformation of Media Narratives before 1931**  
-   Author: Lei Liu
+1.
      [View Article](/articles/article1/)
 
 3. **Colonial Discourse and Press Representation**  
