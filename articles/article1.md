@@ -25,4 +25,4 @@ permalink: /articles/article1/
 
 ## 全文下载
 
-[下载 PDF](/files/北支那地方旅行报告.pdf)
+[下载 PDF](/files/article1.pdf)
