@@ -1,15 +1,10 @@
 ---
 layout: default
-title: Volume 1, Issue 1 (2026)
+title: 第一卷 第一期
+permalink: /issues/vol1-issue1/
 ---
 
-# Volume 1, Issue 1 (2026)
+# 第一卷 第一期
 
-## Articles
-
-1.
-     [View Article](/articles/article1/)
-
-3. **构史研究**  
-   Author: 抽象
-   Coming soon.
+1. **九一八事变前日本报纸对华报道研究**  
+   [查看全文](/articles/article1/)
