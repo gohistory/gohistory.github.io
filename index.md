@@ -1,7 +1,3 @@
----
-layout: default
-title: 首页
----
 
 # 构史研究
 
