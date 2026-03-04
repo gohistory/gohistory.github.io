@@ -1,2 +1,7 @@
-title: go史
-description: Academic Journal of Modern History
+nav:
+  - title: 首页
+    url: /
+  - title: 期刊目录
+    url: /issues/
+  - title: 投稿
+    url: /submit/
