@@ -3,41 +3,27 @@ layout: default
 title: 首页
 ---
 
-<div style="text-align:center; margin-top:160px;">
+# go史研究期刊
 
-<h1 style="font-family: Georgia, 'Times New Roman', serif; 
-           font-size:52px; 
-           font-weight:500; 
-           letter-spacing:1px;">
-journal of gohistory
-           欢迎访问本期刊网站
-</h1>
+本刊致力于现当代抽象学研究，倡导不严谨、不规范的学术精神。
 
-<p style="margin-top:25px; 
-          font-family: Georgia, serif; 
-          font-size:18px;">
-Volume 1 · 2026
-</p>
+---
 
-<p style="font-family: Georgia, serif; 
-          font-size:14px;">
-ISSN 1250-25041
-</p>
+## 最新期刊
 
-<hr style="width:40%; margin:60px auto; border:0; border-top:1px solid #000;">
+📖 [第一卷 第一期](/issues/vol1-issue1/)
 
-<p style="margin-top:40px; font-size:15px;">
-<a href="/issues/vol1-issue1/" style="margin-right:50px; text-decoration:none; color:black;">
-Current Issue
-</a>
+---
 
-<a href="/submission/" style="text-decoration:none; color:black;">
-Submission
-</a>
-</p>
+## 投稿须知
 
-</div>
+欢迎各位学界高（低）才投稿。本刊不实行同行评议制度。
 
-<footer style="text-align:center; margin-top:160px; font-size:13px; color:#444;">
-© 2026 Journal of Historical Studies
-</footer>
+📩 投稿邮箱：your@email.com
+
+---
+
+## 联系方式
+
+编辑部：嘉李敦大学go史编辑部  
+地址：冈比亚共和国班珠尔市圣玛丽岛  
