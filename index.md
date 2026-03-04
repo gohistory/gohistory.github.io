@@ -1,9 +1,36 @@
-# Journal of Historical Studies
+---
+layout: default
+title: Home
+---
 
-Welcome to the official website of the Journal of Historical Studies.
+<div style="text-align:center; margin-top:80px;">
 
-## About
-This journal focuses on modern East Asian history and media history.
+<h1 style="font-size:40px; letter-spacing:1px;">
+Journal of Historical Studies
+</h1>
 
-## Latest Issue
-[Volume 1, Issue 1 (2026)](issues/vol1-issue1.md)
+<p style="font-size:18px; margin-top:10px;">
+Volume 1 · 2026
+</p>
+
+<p style="font-size:16px;">
+ISSN: XXXX-XXXX
+</p>
+
+<p style="margin-top:25px; font-style:italic;">
+An International Peer-Reviewed Journal in Modern East Asian History
+</p>
+
+<hr style="width:60%; margin:40px auto;">
+
+<p>
+<a href="/issues/vol1-issue1/" style="margin-right:30px; font-weight:bold;">
+Current Issue
+</a>
+
+<a href="/submission/" style="font-weight:bold;">
+Submission Guidelines
+</a>
+</p>
+
+</div>
